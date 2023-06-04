@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋我是ZGQ;一名来自上海的高三学生)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋我是SJC;一名来自福建的高三学生)
 
 # [个人主页](http://domain.zgqinc.gq/)
 
