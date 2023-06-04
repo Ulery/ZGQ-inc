@@ -1,5 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋我是SJC;一名来自福建的高三学生)
-# （以下均zgq大佬属） 我活跃于tg冰点
+本人活跃于tg冰点  目前住校，但上课看冰与火之歌，放学于此自学编程技术，乃思想活跃且学习能力超强的班级吊尾男一枚，tg同名
+# （以下均zgq大佬属） 
 # [个人主页](http://domain.zgqinc.gq/)
 
 # [我的资源群](https://archive.zgqinc.gq/transit-groups/)
