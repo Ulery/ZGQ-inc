@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋我是SJC;一名来自福建的高三学生)
-
+# （以下均zgq大佬属） 我活跃于tg冰点
 # [个人主页](http://domain.zgqinc.gq/)
 
 # [我的资源群](https://archive.zgqinc.gq/transit-groups/)
